@@ -19,7 +19,7 @@ data:extend({
       time = 30
     },
     order = "d-a-a"
-  }
+  },
 
   {
       type = "technology",

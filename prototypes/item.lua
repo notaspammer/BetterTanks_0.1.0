@@ -9,7 +9,7 @@ data:extend({
     order = "b[fluid]-a[voiding-storage-tank]",
     place_result = "voiding-storage-tank",
     stack_size = 50
-  }
+  },
 
   {
      type = "item",

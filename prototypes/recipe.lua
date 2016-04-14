@@ -12,7 +12,7 @@ data:extend({
     {"pipe", 2}
   },
   result= "voiding-storage-tank"
-}
+},
 
 {
   type = "recipe",
